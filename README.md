@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Naina Saxena 👋
 
-<!--
-**nainasaxena0512/nainasaxena0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Java Backend Engineer with **10+ years of experience** specializing in **Spring Boot, Microservices, and System Design (HLD & LLD)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Core Expertise
+
+- **Backend:** Java, Spring Boot, Spring Cloud, REST APIs, Hibernate/JPA
+- **Architecture:** Microservices, Event-Driven Systems, HLD (Distributed Systems, Scalability, Kafka)
+- **Design & Clean Code:** LLD (Design Patterns, SOLID Principles)
+
+---
+
+### 📬 Connect with Me
+
+- **LinkedIn:** 
+- **Email:** Naina.saxena1992@gmail.com
