@@ -14,5 +14,5 @@ Senior Java Backend Engineer with **10+ years of experience** specializing in **
 
 ### 📬 Connect with Me
 
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/naina-saxena-62467a160
 - **Email:** Naina.saxena1992@gmail.com
